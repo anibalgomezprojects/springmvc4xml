@@ -1,4 +1,5 @@
-Spring MVC 4
+Spring MVC 4 usando configuracion XML
+=====================================
 
 Facets
 
