@@ -16,3 +16,7 @@ Properties > Deployment Assembly > Add > Java Build Path > Maven
 Servidor
 
 Tomcat 7
+
+Ref: 
+
+http://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-full-example/
